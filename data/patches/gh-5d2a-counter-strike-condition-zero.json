@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Counter Strike: Condition Zero.",
+	"description": "Second iteration of the popular FPS video game saga. \"Counter Strike Condition Zero\", less known and less widespread version of the entire saga.\n",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/"
+		],
+		"subreddit": [
+			"counterstrike"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1389,
+				977
+			],
+			[
+				-1374,
+				977
+			],
+			[
+				-1374,
+				993
+			],
+			[
+				-1389,
+				993
+			],
+			[
+				-1389,
+				977
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1381,
+			985
+		]
+	}
+}
