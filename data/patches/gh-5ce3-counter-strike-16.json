@@ -1,0 +1,55 @@
+{
+	"id": -1,
+	"name": "Counter Strike 1.6",
+	"description": "First iteration of the popular FPS video game saga. \"Counter Strike 1.6\"\n",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/app/10/CounterStrike/"
+		],
+		"subreddit": [
+			"counterstrike"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1412,
+				977
+			],
+			[
+				-1397,
+				977
+			],
+			[
+				-1397,
+				991
+			],
+			[
+				-1412,
+				991
+			],
+			[
+				-1412,
+				977
+			],
+			[
+				-1411,
+				977
+			],
+			[
+				-1405,
+				977
+			],
+			[
+				-1412,
+				977
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1404,
+			984
+		]
+	}
+}
